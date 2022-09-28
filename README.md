@@ -9,11 +9,13 @@
 
 ### UI截图
 #### 简洁的悬浮主界面
-![image](https://user-images.githubusercontent.com/42959931/192721633-dd6377c6-8fdb-4764-85a6-587a13cfc417.png)
-
+![image](https://user-images.githubusercontent.com/42959931/192723260-74e88a8d-8af9-4ee7-979e-ae388ce2947f.png)
 + 绿色按钮： 启动本地录制
 + 摄像头按钮：本地预览，可根据本地录制的类型切换图标为camera和screen的图标
 + 更多功能：系统设置，软件介绍，退出
+
+![image](https://user-images.githubusercontent.com/42959931/192721633-dd6377c6-8fdb-4764-85a6-587a13cfc417.png)
+
 ![image](https://user-images.githubusercontent.com/42959931/192721728-64c2915f-6ee4-4ba9-942a-4b913c37df14.png)
 
 #### 系统设置-摄像与录屏模式切换,camera分辨率选择

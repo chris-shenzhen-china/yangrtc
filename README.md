@@ -20,6 +20,7 @@
 
 #### 系统设置-摄像与录屏模式切换,camera分辨率选择
 ![image](https://user-images.githubusercontent.com/42959931/192721915-2b6539b8-eec6-4165-ab37-a715a833b767.png)
+![image](https://user-images.githubusercontent.com/42959931/192723851-abd84eda-ef97-4d8e-805e-03821302022d.png)
 
 #### 系统设置-音频输入 MIC音量设置
 
@@ -28,12 +29,13 @@
 ![image](https://user-images.githubusercontent.com/42959931/192722129-27ad0b4b-3cc2-4f4a-82bb-6b8d4ef4b5aa.png)
 
 #### 图像预览
-![image](https://user-images.githubusercontent.com/42959931/192722229-c8c1fd35-5afa-4e96-9a09-7b3c68a004a0.png)
+![image](https://user-images.githubusercontent.com/42959931/192724702-6e46c223-0598-4d6e-954b-ef8f9a2b99c2.png)
 
 #### 录屏过程中闪烁红白灯, 点击此按钮停止本地录制
 ![image](https://user-images.githubusercontent.com/42959931/192722369-68d4692f-c7a3-42e0-b5f5-eb0b878eb6ed.png)
 
 ![image](https://user-images.githubusercontent.com/42959931/192722825-807e662c-48ef-48ae-b056-54909a457a7f.png)
+![Uploading image.png…]()
 
 #### 本地文件保存为mp4： ex： record-2022-09-28-15-57-28.mp4
 

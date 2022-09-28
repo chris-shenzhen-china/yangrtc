@@ -20,16 +20,16 @@
 
 #### 系统设置-摄像与录屏模式切换,camera分辨率选择
 ![image](https://user-images.githubusercontent.com/42959931/192721915-2b6539b8-eec6-4165-ab37-a715a833b767.png)
-![image](https://user-images.githubusercontent.com/42959931/192723851-abd84eda-ef97-4d8e-805e-03821302022d.png)
+
 
 #### 系统设置-音频输入 MIC音量设置
-
+![image](https://user-images.githubusercontent.com/42959931/192721728-64c2915f-6ee4-4ba9-942a-4b913c37df14.png)
 
 #### 关于软件
 ![image](https://user-images.githubusercontent.com/42959931/192725795-0bab57d8-380b-4d26-9e0e-a112b44f80d1.png)
 
 #### 图像预览
-![image](https://user-images.githubusercontent.com/42959931/192721728-64c2915f-6ee4-4ba9-942a-4b913c37df14.png)
+![image](https://user-images.githubusercontent.com/42959931/192723851-abd84eda-ef97-4d8e-805e-03821302022d.png)
 ![image](https://user-images.githubusercontent.com/42959931/192724702-6e46c223-0598-4d6e-954b-ef8f9a2b99c2.png)
 
 #### 录屏过程中闪烁红白灯, 点击此按钮停止本地录制

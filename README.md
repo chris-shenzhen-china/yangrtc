@@ -26,16 +26,14 @@
 
 
 #### 关于软件
-![image](https://user-images.githubusercontent.com/42959931/192722129-27ad0b4b-3cc2-4f4a-82bb-6b8d4ef4b5aa.png)
+![image](https://user-images.githubusercontent.com/42959931/192725795-0bab57d8-380b-4d26-9e0e-a112b44f80d1.png)
 
 #### 图像预览
 ![image](https://user-images.githubusercontent.com/42959931/192724702-6e46c223-0598-4d6e-954b-ef8f9a2b99c2.png)
 
 #### 录屏过程中闪烁红白灯, 点击此按钮停止本地录制
 ![image](https://user-images.githubusercontent.com/42959931/192722369-68d4692f-c7a3-42e0-b5f5-eb0b878eb6ed.png)
-
 ![image](https://user-images.githubusercontent.com/42959931/192722825-807e662c-48ef-48ae-b056-54909a457a7f.png)
-![Uploading image.png…]()
 
 #### 本地文件保存为mp4： ex： record-2022-09-28-15-57-28.mp4
 

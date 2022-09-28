@@ -9,13 +9,26 @@
 
 ### UI截图
 #### 简洁的悬浮主界面
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/42959931/192721633-dd6377c6-8fdb-4764-85a6-587a13cfc417.png)
 
 + 绿色按钮： 启动本地录制
 + 摄像头按钮：本地预览，可根据本地录制的类型切换图标为camera和screen的图标
-+ 更多功能：
-- 系统设置： 
++ 更多功能：系统设置，软件介绍，退出
+![image](https://user-images.githubusercontent.com/42959931/192721728-64c2915f-6ee4-4ba9-942a-4b913c37df14.png)
 
+#### 系统设置-摄像与录屏模式切换,camera分辨率选择
+![image](https://user-images.githubusercontent.com/42959931/192721915-2b6539b8-eec6-4165-ab37-a715a833b767.png)
+#### 系统设置-音频输入 MIC音量设置
+![image](https://user-images.githubusercontent.com/42959931/192722129-27ad0b4b-3cc2-4f4a-82bb-6b8d4ef4b5aa.png)
+#### 关于软件
+![image](https://user-images.githubusercontent.com/42959931/192722229-c8c1fd35-5afa-4e96-9a09-7b3c68a004a0.png)
+#### 图像预览
+![image](https://user-images.githubusercontent.com/42959931/192722369-68d4692f-c7a3-42e0-b5f5-eb0b878eb6ed.png)
+
+#### 录屏过程中闪烁红白灯, 点击此按钮停止本地录制
+![Uploading image.png…]()
+
+#### 本地文件保存为mp4： ex： record-2022-09-28-15-57-28.mp4
 
 ---------------------------------- 以下为 Yangrtc 的内容 -----------------------------------------------------
 

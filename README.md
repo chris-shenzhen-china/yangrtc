@@ -8,6 +8,16 @@ yangrtc是一个自主研发的支持Webrtc/Srt/Rtmp的rtc架构，包含多种�
 webrtc支持为自主研发，非谷歌lib,兼容webrtc协议 ,可与谷歌Lib和浏览器互通  
 支持Linux/Windows操作系统  
 yangwebrtc已经转移到https://github.com/metartc/yangwebrtc  
+
+###本fork旨在yangrtc基础上开发一些demo应用：
+#### 本地录制项目
++ 摄像和录屏功能切换
++ 设置MIC音量
++ 本地录制内容可预览
++ 简洁的UI
++ 基于metartc-5.0-b4版本修改和增量开发
+
+
 ### 目录功能  
 #### libyangrtcmeeting2
 视频会议类库  

@@ -1,3 +1,24 @@
+
+## 本fork旨在yangrtc基础上开发一些demo应用：
+### 本地录制项目主要功能
++ 摄像和录屏功能切换
++ 设置MIC音量
++ 本地录制内容可预览
++ 简洁的UI，字体图标
++ 基于metartc-5.0-b4版本修改和增量开发
+
+### UI截图
+#### 简洁的悬浮主界面
+![Uploading image.png…]()
+
++ 绿色按钮： 启动本地录制
++ 摄像头按钮：本地预览，可根据本地录制的类型切换图标为camera和screen的图标
++ 更多功能：
+- 系统设置： 
+
+
+---------------------------------- 以下为 Yangrtc 的内容 -----------------------------------------------------
+
 ## Yangrtc Overview
  
 Yang Real-Time Communication，专业级的行业视音频应用的SDK。   
@@ -9,13 +30,6 @@ webrtc支持为自主研发，非谷歌lib,兼容webrtc协议 ,可与谷歌Lib�
 支持Linux/Windows操作系统  
 yangwebrtc已经转移到https://github.com/metartc/yangwebrtc  
 
-### 本fork旨在yangrtc基础上开发一些demo应用：
-#### 本地录制项目
-+ 摄像和录屏功能切换
-+ 设置MIC音量
-+ 本地录制内容可预览
-+ 简洁的UI
-+ 基于metartc-5.0-b4版本修改和增量开发
 
 
 ### 目录功能  

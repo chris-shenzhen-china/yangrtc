@@ -1,5 +1,5 @@
 
-## 本fork旨在yangrtc基础上开发一些demo应用：
+## 本fork旨在metartc基础上开发一些demo应用：
 ### 本地录制项目主要功能
 + 摄像和录屏功能切换
 + 设置MIC音量
